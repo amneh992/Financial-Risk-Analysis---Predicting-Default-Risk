@@ -1,10 +1,10 @@
-# 📊 Financial Risk Analytics (FRA)
+#  Financial Risk Analytics (FRA)
 
 This project focuses on assessing **credit risk** and **market risk** using financial data. It was developed as part of the *Financial Risk Analytics* coursework and is divided into two main parts:
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ### Part A – Default Prediction
 - **Objective:** Predict whether a company is likely to default on its financial obligations.
@@ -19,7 +19,7 @@ This project focuses on assessing **credit risk** and **market risk** using fina
 
 ---
 
-## 🧠 Skills & Tools Used
+## Skills & Tools Used
 
 - **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib)
 - **Models:** Logistic Regression, Descriptive Statistics
@@ -28,7 +28,7 @@ This project focuses on assessing **credit risk** and **market risk** using fina
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Amneh Mohammad Ibrahim Ghanem**  
 Master’s Student in Data Science – Deakin University  
